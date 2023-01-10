@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning:
   C++, C and Javascript.
 - 📫 How to reach me:
-  https://twitter.com/M1KE_Dev
+ https://twitter.com/michael_0427
