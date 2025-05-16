@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmm1602&label=Profile%20views&color=595959&style=flat" alt="mmm1602" /> </p>
 
-- 🔭 I’m currently working on [a messaging solution](https://github.com/mmm1602/Rooms-ChattingApp)
+- 🔭 I’m currently working on Web Development and a car engine simulator
 
-- 🌱 I’m currently learning **C, C++ and JavaScript**
+- 🌱 Proficient in **C, C++, C# and JavaScript**
 
 - 💬 Ask me about **C#, Python, AI, ML, HTML or CSS.**
 
