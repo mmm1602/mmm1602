@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **C#, Python, AI, ML, HTML or CSS.**
 
-- 📫 How to reach me **https://twitter.com/michael_0427**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/michael_0427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michael_0427" height="30" width="40" /></a>
