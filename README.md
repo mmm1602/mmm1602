@@ -21,15 +21,14 @@
 
 ### 🚀 Featured Projects
 
-- 🔹 [**Autonomous Boat Navigation**](https://github.com/mmm1602)  
-  Arduino-based GPS-controlled autonomous boat with obstacle avoidance and PID control
+- 🔹 [**Autonomous Boat Navigation** – GNOR-RACE](https://github.com/mmm1602/GNOR-RACE)  
+  Arduino-based GPS-controlled autonomous boat with obstacle avoidance and PID control.
 
-- 🔹 [**LAN Instant Messaging App**](https://github.com/mmm1602)  
-  Real-time C# desktop chat application over local network
+- 🔹 [**LAN Instant Messaging App – Rooms ChattingApp**](https://github.com/mmm1602/Rooms-ChattingApp)  
+  Desktop messaging client built in C# using WPF. Features real-time LAN-based communication and custom user profiles.
 
-- 🔹 [**Interactive 3D Portfolio**](https://miguelhurtado.software)  
-  Custom-built React + Three.js site with animation and motion design
-
+- 🔹 [**Interactive 3D Portfolio – portfolio-nextjs-site**](https://github.com/mmm1602/portfolio-nextjs-site)  
+  Built with Next.js, Three.js, and Framer Motion. Visually engaging developer portfolio with animation and 3D elements.
 ---
 
 ### 🧰 Languages & Tools
