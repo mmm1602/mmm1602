@@ -9,6 +9,7 @@
 
 ### 👨‍💻 About Me
 
+- 🎯 Check out my interactive developer portfolio: [miguelhurtado.software](https://miguelhurtado.software)
 - 🧠 **Student** of Aerospace Engineering @ UCF  
 - 🤖 **Passionate about robotics, real-time systems, and embedded software**  
 - 🛠️ Experienced with C, C++, C#, Python, and microcontroller programming  
