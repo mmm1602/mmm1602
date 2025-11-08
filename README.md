@@ -12,7 +12,7 @@
 - 🎓 **Aerospace Engineering undergraduate at the University of Central Florida (GPA 3.8)**  
 - 🧠 Passionate about **robotics, autonomous systems, and real-time control**  
 - 🤖 Hands-on with **embedded systems**, **AI-driven optimization**, and **mission-critical software**  
-- 🔭 Currently developing:
+- 🔭 Projects:
   - 🛥 **Autonomous Boat (GNOR-RACE)** – GPS-guided vehicle with MATLAB-simulated path tracking  
   - 🦾 **UCF Robotics Club – Project STORM** – Multi-DOF robotic arm for a Mars-style rover  
   - 🛰 **FLITE** – UAV mission-control dashboard built with React + Python (KnightHacks VIII award-winning project)  
