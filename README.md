@@ -9,7 +9,7 @@
 
 ### 👨‍🚀 About Me  
 
-- 🎓 **Aerospace Engineering undergraduate at the University of Central Florida (GPA 3.8)**  
+- 🎓 **Aerospace Engineering undergraduate at the University of Central Florida**  
 - 🧠 Passionate about **robotics, autonomous systems, and real-time control**  
 - 🤖 Hands-on with **embedded systems**, **AI-driven optimization**, and **mission-critical software**  
 - 🔭 Projects:
