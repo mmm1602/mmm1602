@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel Hurtado</h1>
-<h3 align="center">Aerospace Engineering Student @ UCF | Robotics & Software Developer | Passionate About Autonomy and Embedded Systems</h3>
+<h3 align="center">Aerospace Engineering Student @ UCF | Mechanical Design, Robotics & Autonomous Systems | CAD, Prototyping, Testing</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mmm1602&label=Profile%20views&color=0e75b6&style=flat" alt="mmm1602" />
